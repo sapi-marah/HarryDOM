@@ -3,7 +3,7 @@ function dcrstokens() {
   setTimeout(function() {
     document.getElementsByClassName('_front_mlio2_65')[1].click();
     setTimeout(function() {
-      document.getElementsClassName('OpeningAnim_openPack__378FJ')[0].click();
+      document.getElementsByClassName('OpeningAnim_openPack__378FJ')[0].click();
     }, 500);
   }, 500);
 }
