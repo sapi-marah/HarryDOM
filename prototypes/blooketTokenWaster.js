@@ -1,5 +1,11 @@
 function dcrstokens() {
-  document.getElementsByClassName('Packs_packOverlay__GsAVz');
+  document.getElementsByClassName('Packs_packOverlay__GsAVz')[0].click();
+  setTimeout(function() {
+    document.getElementsByClassName('_front_mlio2_65')[1].click();
+    setTimeout(function() {
+      document.getElements
+    }, 500);
+  }, 500);
 }
 if (window.location.href === "https://dashboard.blooket.com/market") {
   let fetchedTokens = document.getElementsByClassName('TokenCounter_tokenContainer__wE6XL')[0].textContent;
