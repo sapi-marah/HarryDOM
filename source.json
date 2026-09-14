@@ -4,6 +4,11 @@
 			"author" : "Ian C. Vu",
 			"name" : "Browser.lol Runner",
 			"program" : "bGV0IGZyYW1lID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaWZyYW1lIik7CmZyYW1lLnNyYyA9ICJodHRwczovL2Jyb3dzZXIubG9sIjsKZnJhbWUuc3R5bGUgPSBgCglwb3NpdGlvbjogZml4ZWQ7Cgl6LWluZGV4OiA5OTk5OTk5OTsKCXRvcCA6IDBweDsKCWxlZnQ6IDBweDsKCXdpZHRoOiBgICsgd2luZG93LmlubmVyV2lkdGggKyBgcHg7CgloZWlnaHQ6IGAgKyB3aW5kb3cuaW5uZXJIZWlnaHQgKyBgcHg7CmA7IApkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGZyYW1lKTs="
+		},
+		{
+			"author" : "Ian C. Vu",
+			"name" : "Blooket Study Answer Spammer".
+			"program" : "c2V0SW50ZXJ2YWwoZnVuY3Rpb24oKSB7CglsZXQgYnV0dG9uID0gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogNCk7CglsZXQgYiA9IGJ1dHRvbiArIDE7CglsZXQgYnV0dG9ucyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoIltjbGFzc149J19hbnN3ZXJCdXR0b24nXSIpOwoJYnV0dG9uc1tidXR0b25dLmRpc3BhdGNoRXZlbnQoCgkJbmV3IEtleWJvYXJkRXZlbnQoJ2tleWRvd24nLCB7CgkJCWtleSA6IGIsCgkJCWJ1YmJsZXMgOiB0cnVlCgkJfSkKCSk7Cn0sIDIwMCk7"
 		}
 	]
 }
